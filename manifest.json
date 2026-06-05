@@ -1,15 +1,13 @@
 {
   "name": "Duel",
   "short_name": "Duel",
-  "description": "Jeu de cartes Duel",
-  "start_url": "/duel/",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#1a7a6e",
   "theme_color": "#1a7a6e",
-  "orientation": "portrait",
   "icons": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/tkplay/duel@main/back.png",
+      "src": "https://cdn.jsdelivr.net/gh/tkplay/duel@main/icon.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
